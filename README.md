@@ -8,6 +8,6 @@ So I measured them myself using the BOYA BY-M1S, Room EQ Wizard (REW) and a meta
 
 ![Screenshot 2024-07-07 at 16-12-04 AutoEq](https://github.com/demonich/-7-Hz-Salnotes-Zero-personal-frequency-response-calculations/assets/74813436/16b8d8d0-222a-4863-b556-12197ea89056)
 
-# Oratory1990
+# Oratory1990 (taken from autoeq.app)
 
 ![Screenshot 2024-07-07 at 16-12-11 AutoEq](https://github.com/demonich/-7-Hz-Salnotes-Zero-personal-frequency-response-calculations/assets/74813436/4dd8f2ff-12ae-4804-9c00-c5c2301811c3)
