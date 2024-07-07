@@ -4,7 +4,7 @@ I don't know what's wrong with mine, their frequency response is not even close 
 
 So I measured them myself using the BOYA BY-M1S, Room EQ Wizard (REW) and a metal tube to simulate the ear canal :D
 
-(You can doubt the quality of these calculations, I won’t object, but this peak... this peak I can hear well with my own ears. The whole idea was to find this particular peak.)
+(You can doubt the quality of these calculations, I won’t object, but this peak... this peak I can hear well with my own ears. The whole idea was to find frequency of this particular peak.)
 
 # My curve
 
